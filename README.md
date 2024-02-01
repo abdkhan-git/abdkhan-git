@@ -9,8 +9,8 @@ Computer Science Major & Aspiring Software Engineer
 * ✉️  You can contact me at [abdkhan033@gmail.com](mailto:abdkhan033@gmail.com)
 * 🚀  I'm currently working on [ChatPDF](http://www.linkedin.com/in/khana30)
 * 🧠  I'm learning Data Structures & Algorithms
-* 🤝  I'm open to collaborating on any freenlancing / interesting project opportunities
-* ⚡  I love going out with my friends, playing sports, and playing videogames.
+* 🤝  I'm open to collaborating on any freelancing/interesting project opportunities
+* ⚡  I love going out with my friends, playing sports, and playing video games.
 
 ### Skills
 
