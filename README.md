@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/khana30](https://dev.to/khana30)
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **anything!**
 
 - 📫 How to reach me **abdkhan033@gmail.com**
 
