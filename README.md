@@ -5,7 +5,7 @@ Computer Science Major & Aspiring Software Engineer
 ---------------------------------------------------
 
 * 🌍  I'm based in New York
-* 🖥️  See my portfolio at [Abdullah's Portfolio](http://www.linkedin.com/in/khana30)
+* 🖥️  See my portfolio at [Abdullah's Portfolio](https://abdkhan-dev.netlify.app/)
 * ✉️  You can contact me at [abdkhan033@gmail.com](mailto:abdkhan033@gmail.com)
 * 🚀  I'm currently working on [ChatPDF](http://www.linkedin.com/in/khana30)
 * 🧠  I'm learning Data Structures & Algorithms
