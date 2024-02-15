@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **email: abdkhan033@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_lvlxptgH05ZOdIgloDWgww0D1pLafmS/view?usp=drive_link](https://drive.google.com/file/d/1_lvlxptgH05ZOdIgloDWgww0D1pLafmS/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_lvlxptgH05ZOdIgloDWgww0D1pLafmS/view?usp=drive_link](Resume.pdf)
 
 - ⚡ Fun fact **I love going out with my friends, playing sports, and playing video games.**
 
