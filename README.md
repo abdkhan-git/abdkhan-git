@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
 <h3 align="center">A passionate Computer Science major & aspiring SWE from New York</h3>
 
-- 🔭 I’m currently working on **a Google Drive clone project.**
+- 🔭 I’m currently working on **a Google Docs Clone.**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms.**
 
