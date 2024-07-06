@@ -5,13 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms.**
 
-- 👯 I’m looking to collaborate on **any freelancing/interesting project opportunities.**
-
 - 👨‍💻 All of my projects are available at [https://abdkhan-dev.netlify.app/](https://abdkhan-dev.netlify.app/)
-
-- 📝 I regularly write articles on [https://dev.to/khana30](https://dev.to/khana30)
-
-- 💬 Ask me about **java, react, and javascript!**
 
 - 📫 How to reach me **email: abdkhan033@gmail.com**
 
