@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abdkhan-dev.netlify.app/](https://abdkhan-dev.netlify.app/)
 
-- 📫 How to reach me **email: abdkhan033@gmail.com**
+- 📫 Reach me via **email: abdkhan033@gmail.com**
 
 - ⚡ Fun fact **I love going out with my friends, playing sports, and playing video games.**
 
