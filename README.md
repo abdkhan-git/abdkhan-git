@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
-<h3 align="center">A passionate Computer Science major & aspiring SWE from New York, NY</h3>
+<h3 align="center">A passionate Computer Science major & aspiring SWE from New York</h3>
 
 - 🔭 I’m currently working on **a Google Drive clone project.**
 
