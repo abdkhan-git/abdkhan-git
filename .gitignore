@@ -23,4 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-src\sections\Contact\Contact.jsx
+src/sections/Contact/Contact.jsx
