@@ -1,0 +1,56 @@
+/* ExperienceStyles.module.css */
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  position: relative;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.timeline {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+/* Central timeline line */
+.timeline::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: linear-gradient(
+    to bottom,
+    var(--btn-color),
+    rgba(9, 135, 242, 0.3),
+    var(--btn-color)
+  );
+  transform: translateX(-50%);
+  border-radius: 2px;
+}
+
+/* Mobile timeline line */
+@media (max-width: 768px) {
+  .timeline::before {
+    left: 20px;
+    transform: none;
+    width: 2px;
+  }
+}
+
+@media (max-width: 480px) {
+  .timeline::before {
+    left: 15px;
+  }
+}
+
+@media (max-width: 1400px) {
+  .timeline {
+    gap: 30px;
+  }
+}

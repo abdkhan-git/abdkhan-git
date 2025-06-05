@@ -77,6 +77,71 @@
   gap: 20px;
 }
 
+/* Add this to your HeroStyles.module.css file to fix mobile alignment */
+
+/* Mobile-specific fixes */
+@media (max-width: 768px) {
+  .container {
+    padding: 0 20px;
+    margin-top: 20px;
+  }
+
+  .info {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .description {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  span {
+    width: 100%;
+    justify-content: center;
+  }
+
+  h1,
+  h2 {
+    text-align: center;
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 0 15px;
+    gap: 15px;
+  }
+
+  .hero {
+    max-width: 180px !important;
+  }
+
+  .colorMode {
+    width: 20px;
+  }
+
+  h1 {
+    font-size: 28px !important;
+  }
+
+  h2 {
+    font-size: 18px !important;
+  }
+
+  .description {
+    font-size: 14px;
+    max-width: 28ch;
+  }
+
+  button {
+    width: 110px;
+    height: 45px;
+    font-size: 18px;
+  }
+}
+
 @media (width >= 800px) {
   .container {
     flex-direction: row-reverse;

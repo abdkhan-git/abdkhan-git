@@ -31,6 +31,14 @@ body {
   gap: 60px;
 }
 
+body {
+  background-color: var(--background-color);
+  display: flex;
+  justify-content: center;
+  margin: 0 auto 60px;
+  padding-top: 80px; /* Add this line */
+}
+
 h1,
 h2,
 h3,
